@@ -1,5 +1,5 @@
 class FirstClass {
-  var team = "Barcelona";
+  var team;
   var player;
   var numbers;
 }
